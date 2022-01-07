@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/nodgyd/HW10-Employee-Management-System/issues"
   },
-  "homepage": "https://github.com/nodgyd/HW10-Employee-Management-System#readme"
+  "homepage": "https://github.com/nodgyd/HW10-Employee-Management-System#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3",
+    "util": "^0.12.4"
+  }
 }
